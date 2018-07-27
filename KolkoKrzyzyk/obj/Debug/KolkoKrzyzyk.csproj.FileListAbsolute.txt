@@ -1,0 +1,9 @@
+F:\Projekty C#\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\KolkoKrzyzyk.exe.config
+F:\Projekty C#\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\KolkoKrzyzyk.exe
+F:\Projekty C#\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\KolkoKrzyzyk.pdb
+F:\Projekty C#\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.csprojResolveAssemblyReference.cache
+F:\Projekty C#\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.Form1.resources
+F:\Projekty C#\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.Properties.Resources.resources
+F:\Projekty C#\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.csproj.GenerateResource.Cache
+F:\Projekty C#\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.exe
+F:\Projekty C#\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.pdb
